@@ -1,4 +1,4 @@
-# 100 Python projects
+# Non-venomous Experiments
 
 | # | Project Name | Difficulty | Focus Area |
 |---|---------------|-------------|-------------|
